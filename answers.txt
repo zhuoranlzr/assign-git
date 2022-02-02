@@ -4,7 +4,7 @@
 
 •What does fast-forward in Git mean?
 There are two branches and one of the branch just has additional commits that the first branch doesn't have.
-So to catch up, the first branch need merge the second branch.
+So the first branch need to catch up by using fast-forward merge.
 
 •Why should you have different branches?
 Different branches enable us to create separte contexts where we can write new codes or fix the bugs.
