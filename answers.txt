@@ -7,7 +7,7 @@ There are two branches and one of the branch just has additional commits that th
 So the first branch need to catch up by using fast-forward merge.
 
 •Why should you have different branches?
-Different branches enable us to create separte contexts where we can write new codes or fix the bugs.
+Different branches enable us to create separate contexts where we can write new codes or fix the bugs.
 
 •In a project how many remote Git repositories do you usually have?
 1
